@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1690405933 source:d:\nagham\bioinformatics\third year\computer graphics\project\menu\main.cpp
+	<tchar.h>
+	<windows.h>
+	<iostream>
+	<cmath>
+	<list>
+	<stack>
+	<vector>
+	<algorithm>
+	<fstream>
+
